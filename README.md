@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./assets/profile-banner-v3.png" alt="André Massarente — Offensive Security, Development, AI and Automation" />
+<img src="./assets/profile-banner-v4.png" alt="André Massarente — Offensive Security, Development, AI and Automation" />
 
 <img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Offensive%20Security-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Offensive Security" />
-<img src="https://img.shields.io/badge/Development-1e293b?style=for-the-badge&logo=git&logoColor=F05032" alt="Development" />
-<img src="https://img.shields.io/badge/AI-312e81?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI" />
-<img src="https://img.shields.io/badge/Automation-0f766e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/Offensive%20Security-0b0b0f?style=for-the-badge&logo=kalilinux&logoColor=ef4444" alt="Offensive Security" />
+<img src="https://img.shields.io/badge/Development-1a0b0b?style=for-the-badge&logo=git&logoColor=F05032" alt="Development" />
+<img src="https://img.shields.io/badge/AI-450a0a?style=for-the-badge&logo=googlegemini&logoColor=ffffff" alt="AI" />
+<img src="https://img.shields.io/badge/Automation-7f1d1d?style=for-the-badge&logo=githubactions&logoColor=ffffff" alt="Automation" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/andremassarente/">
-  <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9%20Massarente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9%20Massarente-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=ef4444" alt="LinkedIn" />
 </a>
-<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brazil-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brazil" />
+<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brazil-450a0a?style=for-the-badge&logo=googlemaps&logoColor=ffffff" alt="São Paulo, Brazil" />
 
 </div>
 
@@ -84,6 +84,6 @@ offensive security • development • ai • automation • linux
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7c3aed,55:0f766e,100:020617" alt="Footer" />
+<img src="./assets/profile-footer-v1.png" alt="Footer" />
 
 </div>
