@@ -6,11 +6,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cyber%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Cyber Security" />
 <img src="https://img.shields.io/badge/Offensive%20Security-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Offensive Security" />
-<img src="https://img.shields.io/badge/Development-1e293b?style=for-the-badge&logo=visualstudiocode&logoColor=facc15" alt="Development" />
-<img src="https://img.shields.io/badge/AI-312e81?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-<img src="https://img.shields.io/badge/Automation-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/Development-1e293b?style=for-the-badge&logo=visualstudiocode&logoColor=22d3ee" alt="Development" />
+<img src="https://img.shields.io/badge/AI-312e81?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI" />
+<img src="https://img.shields.io/badge/Automation-0f766e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
 
 <br/><br/>
 
@@ -25,7 +24,7 @@
 
 ## 👾 About me
 
-I'm **André Massarente**, a **Computer Science student** and **Cyber Security professional** focused on **Offensive Security**, **development**, **AI** and **automation**.
+I'm **André Massarente**, a **Computer Science student** with a strong focus on **Offensive Security**, **development**, **AI** and **automation**.
 
 I like building practical tools, automating repetitive workflows, breaking down how systems work, and turning technical learning into real projects.
 
