@@ -88,8 +88,8 @@ offensive security • desenvolvimento • ia • automação • linux
         <img src="https://img.shields.io/badge/Kali%20Linux-0b0b0f?style=for-the-badge&logo=kalilinux&logoColor=ef4444" alt="Kali Linux" />
         <img src="https://img.shields.io/badge/Linux-1a0b0b?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
         <img src="https://img.shields.io/badge/OWASP-450a0a?style=for-the-badge&logo=owasp&logoColor=ffffff" alt="OWASP" />
-        <img src="https://img.shields.io/badge/Burp%20Suite-7f1d1d?style=for-the-badge&logo=burpsuite&logoColor=ffffff" alt="Burp Suite" />
-        <img src="https://img.shields.io/badge/Wireshark-0b0b0f?style=for-the-badge&logo=wireshark&logoColor=ef4444" alt="Wireshark" />
+        <img src="https://img.shields.io/badge/Pentest%20Toolkit-7f1d1d?style=for-the-badge&logo=gnometerminal&logoColor=ffffff" alt="Pentest Toolkit" />
+        <img src="https://img.shields.io/badge/Security%20Labs-0b0b0f?style=for-the-badge&logo=hackthebox&logoColor=ef4444" alt="Security Labs" />
       </p>
     </td>
   </tr>
@@ -108,9 +108,10 @@ offensive security • desenvolvimento • ia • automação • linux
       <h3>AI & Automation</h3>
       <p>
         <img src="https://img.shields.io/badge/AI%20Agents-0b0b0f?style=for-the-badge&logo=googlegemini&logoColor=ef4444" alt="AI Agents" />
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-1a0b0b?style=for-the-badge&logo=googlegemini&logoColor=ffffff" alt="Prompt Engineering" />
-        <img src="https://img.shields.io/badge/Automation-450a0a?style=for-the-badge&logo=python&logoColor=ffffff" alt="Automation" />
-        <img src="https://img.shields.io/badge/Workflows-7f1d1d?style=for-the-badge&logo=gnometerminal&logoColor=ffffff" alt="Workflows" />
+        <img src="https://img.shields.io/badge/Rede%20Neural-1a0b0b?style=for-the-badge&logo=ollama&logoColor=ffffff" alt="Rede Neural" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-450a0a?style=for-the-badge&logo=googlegemini&logoColor=ffffff" alt="Prompt Engineering" />
+        <img src="https://img.shields.io/badge/Agentic%20Workflows-7f1d1d?style=for-the-badge&logo=gnometerminal&logoColor=ffffff" alt="Agentic Workflows" />
+        <img src="https://img.shields.io/badge/Automation%20Systems-0b0b0f?style=for-the-badge&logo=python&logoColor=ef4444" alt="Automation Systems" />
       </p>
     </td>
   </tr>
