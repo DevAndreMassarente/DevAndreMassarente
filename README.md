@@ -1,77 +1,82 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="André Massarente" />
+<img src="./assets/profile-banner.png" alt="André Massarente — Pentest, Software Development and AI Automation" />
 
 <img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cyber%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Cyber Security" />
-<img src="https://img.shields.io/badge/Seguran%C3%A7a%20Ofensiva-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Segurança Ofensiva" />
-<img src="https://img.shields.io/badge/Scripting%20%26%20Software%20Engineering-1e293b?style=for-the-badge&logo=gnometerminal&logoColor=facc15" alt="Scripting & Software Engineering" />
+<img src="https://img.shields.io/badge/Offensive%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Offensive Security" />
+<img src="https://img.shields.io/badge/Pentest-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Pentest" />
+<img src="https://img.shields.io/badge/Software%20Development-1e293b?style=for-the-badge&logo=gnometerminal&logoColor=facc15" alt="Software Development" />
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-312e81?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Automation" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/andremassarente/">
   <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9%20Massarente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil" />
+<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brazil-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brazil" />
 
 </div>
 
 ---
 
-## 👾 Quem sou
+## 👾 About me
 
-Sou **André Massarente**, estudante de **Ciência da Computação** e profissional na área de **Cyber Security**, com foco em **Segurança Ofensiva**.
+I'm **André Massarente**, a **Computer Science student** and **Cyber Security professional** focused on **Offensive Security**, **pentest**, **software development**, **AI** and **automation**.
 
-Busco evoluir como **Analista Jr de Cyber Security** e futuro **pentester**, construindo uma base forte em segurança, programação, Linux, redes, automação e engenharia de software.
+I like building practical tools, automating repetitive workflows, breaking down how systems work, and turning technical learning into real projects.
 
 ```txt
 root@portfolio:~$ whoami
-cyber security • segurança ofensiva • pentest • scripting • linux • software engineering
+pentest • offensive security • software development • ai automation • linux
 ```
 
 ---
 
-## 🧨 Especialidades em evolução
+## 🧨 Core focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Segurança Ofensiva</h3>
-      <p>Pentest, reconhecimento, enumeração, OWASP, análise de superfície de ataque e mentalidade de exploração ética.</p>
+      <h3>🛡️ Offensive Security</h3>
+      <p>Pentest methodology, reconnaissance, enumeration, OWASP, attack surface analysis and ethical exploitation mindset.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Scripting & Automação</h3>
-      <p>Python e Bash para criar ferramentas, automatizar tarefas repetitivas e transformar processos manuais em fluxos reproduzíveis.</p>
+      <h3>💻 Software Development</h3>
+      <p>Python, JavaScript/TypeScript, Java, APIs, clean structure, Git/GitHub workflows and maintainable project organization.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐧 Linux & Redes</h3>
-      <p>Terminal, sistemas Linux, fundamentos de redes, troubleshooting, serviços, permissões e práticas de hardening.</p>
+      <h3>⚙️ Scripting & Automation</h3>
+      <p>Python and Bash scripts to create tools, reduce manual work, collect data and build repeatable technical workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Software Engineering</h3>
-      <p>Desenvolvimento de aplicações, organização de código, Git/GitHub, APIs, documentação de projeto e boas práticas de manutenção.</p>
+      <h3>🤖 AI for Security & Productivity</h3>
+      <p>Using AI agents, prompts and automation to accelerate research, documentation, coding, analysis and personal infrastructure.</p>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,java,ts,js,flask" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,java,ts,js,flask,aws" alt="Tech stack" />
 
 </div>
 
 ---
 
-## 🎓 Certificações
+## 🎓 Certification
 
 <div align="center">
 
 <img src="./assets/aws-cloud-practitioner.png" width="135" alt="AWS Certified Cloud Practitioner" />
+
+<br/>
+
+**AWS Certified Cloud Practitioner**
 
 </div>
 
