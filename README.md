@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f766e,100:7c3aed&text=André%20Massarente&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Cyber%20Security%20%E2%80%A2%20Seguran%C3%A7a%20Ofensiva%20%E2%80%A2%20Scripting%20%26%20Software%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" alt="André Massarente" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f766e,100:7c3aed&text=André%20Massarente&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Cyber%20Security%20%E2%80%A2%20Seguran%C3%A7a%20Ofensiva%20%E2%80%A2%20Scripting%20%E2%80%A2%20Software%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" alt="André Massarente" />
 
 <img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
 
@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Cyber%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Cyber Security" />
 <img src="https://img.shields.io/badge/Seguran%C3%A7a%20Ofensiva-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Segurança Ofensiva" />
-<img src="https://img.shields.io/badge/Python%20%7C%20Linux%20%7C%20Automação-1e293b?style=for-the-badge&logo=python&logoColor=facc15" alt="Python Linux Automação" />
+<img src="https://img.shields.io/badge/Scripting%20%26%20Software%20Engineering-1e293b?style=for-the-badge&logo=gnometerminal&logoColor=facc15" alt="Scripting & Software Engineering" />
 
 <br/><br/>
 
