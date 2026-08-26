@@ -66,19 +66,55 @@ offensive security • desenvolvimento • ia • automação • linux
 
 <div align="center">
 
-<strong>Linguagens & scripting</strong>
-
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,bash" alt="Linguagens e scripting" />
 
 <br/><br/>
 
-<strong>Ambiente, segurança & cloud</strong>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=linux,kali,aws" alt="Ambiente, segurança e cloud" />
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Languages & Scripting</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0b0b0f?style=for-the-badge&logo=python&logoColor=ef4444" alt="Python" />
+        <img src="https://img.shields.io/badge/Java-1a0b0b?style=for-the-badge&logo=openjdk&logoColor=ef4444" alt="Java" />
+        <img src="https://img.shields.io/badge/JavaScript-450a0a?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-7f1d1d?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Bash-0b0b0f?style=for-the-badge&logo=gnubash&logoColor=ef4444" alt="Bash" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Offensive Security & Labs</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Kali%20Linux-0b0b0f?style=for-the-badge&logo=kalilinux&logoColor=ef4444" alt="Kali Linux" />
+        <img src="https://img.shields.io/badge/Linux-1a0b0b?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
+        <img src="https://img.shields.io/badge/OWASP-450a0a?style=for-the-badge&logo=owasp&logoColor=ffffff" alt="OWASP" />
+        <img src="https://img.shields.io/badge/Burp%20Suite-7f1d1d?style=for-the-badge&logo=burpsuite&logoColor=ffffff" alt="Burp Suite" />
+        <img src="https://img.shields.io/badge/Wireshark-0b0b0f?style=for-the-badge&logo=wireshark&logoColor=ef4444" alt="Wireshark" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Cloud & Infrastructure</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws,linux" alt="AWS e Linux" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AWS%20Cloud-0b0b0f?style=for-the-badge&logo=icloud&logoColor=ef4444" alt="AWS Cloud" />
+        <img src="https://img.shields.io/badge/Networking-450a0a?style=for-the-badge&logo=cloudflare&logoColor=ffffff" alt="Networking" />
+        <img src="https://img.shields.io/badge/CLI-7f1d1d?style=for-the-badge&logo=gnometerminal&logoColor=ffffff" alt="CLI" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>AI & Automation</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Agents-0b0b0f?style=for-the-badge&logo=googlegemini&logoColor=ef4444" alt="AI Agents" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-1a0b0b?style=for-the-badge&logo=googlegemini&logoColor=ffffff" alt="Prompt Engineering" />
+        <img src="https://img.shields.io/badge/Automation-450a0a?style=for-the-badge&logo=python&logoColor=ffffff" alt="Automation" />
+        <img src="https://img.shields.io/badge/Workflows-7f1d1d?style=for-the-badge&logo=gnometerminal&logoColor=ffffff" alt="Workflows" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
