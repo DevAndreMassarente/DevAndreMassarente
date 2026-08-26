@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="André Massarente — Pentest, Development, AI and Automation" />
+<img src="./assets/profile-banner-v2.png" alt="André Massarente — Pentest, Development, AI and Automation" />
 
 <img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
 
