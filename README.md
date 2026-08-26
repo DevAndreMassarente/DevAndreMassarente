@@ -23,7 +23,7 @@
 
 ## 🧭 Sobre mim
 
-Sou **André Luiz Massarente**, estudante de **Ciência da Computação** e estagiário de **Cyber Security** na Vivo, atuando com **Segurança Ofensiva**, **Postura de Segurança Cibernética** e automações para apoiar operações técnicas.
+Sou **André Luiz Massarente**, estudante de **Ciência da Computação** e profissional em formação na área de **Cyber Security**, com foco em **Segurança Ofensiva**, **Postura de Segurança Cibernética** e automações para apoiar operações técnicas.
 
 Meu objetivo é evoluir como **Analista Jr de Cyber Security** e, no futuro, atuar como **pentester**, unindo segurança ofensiva, programação, Linux, automação e engenharia de software.
 
