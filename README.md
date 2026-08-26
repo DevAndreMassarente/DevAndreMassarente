@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile-banner-v2.png" alt="André Massarente — Pentest, Development, AI and Automation" />
+<img src="./assets/profile-banner-v3.png" alt="André Massarente — Offensive Security, Development, AI and Automation" />
 
 <img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Offensive%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Offensive Security" />
-<img src="https://img.shields.io/badge/Pentest-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Pentest" />
-<img src="https://img.shields.io/badge/Development-1e293b?style=for-the-badge&logo=gnometerminal&logoColor=facc15" alt="Development" />
+<img src="https://img.shields.io/badge/Cyber%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Cyber Security" />
+<img src="https://img.shields.io/badge/Offensive%20Security-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Offensive Security" />
+<img src="https://img.shields.io/badge/Development-1e293b?style=for-the-badge&logo=visualstudiocode&logoColor=facc15" alt="Development" />
 <img src="https://img.shields.io/badge/AI-312e81?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 <img src="https://img.shields.io/badge/Automation-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Automation" />
 
@@ -25,13 +25,13 @@
 
 ## 👾 About me
 
-I'm **André Massarente**, a **Computer Science student** and **Cyber Security professional** focused on **Offensive Security**, **pentest**, **development**, **AI** and **automation**.
+I'm **André Massarente**, a **Computer Science student** and **Cyber Security professional** focused on **Offensive Security**, **development**, **AI** and **automation**.
 
 I like building practical tools, automating repetitive workflows, breaking down how systems work, and turning technical learning into real projects.
 
 ```txt
 root@portfolio:~$ whoami
-pentest • offensive security • development • ai • automation • linux
+offensive security • development • ai • automation • linux
 ```
 
 ---
@@ -42,7 +42,7 @@ pentest • offensive security • development • ai • automation • linux
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Offensive Security</h3>
-      <p>Pentest methodology, reconnaissance, enumeration, OWASP, attack surface analysis and ethical exploitation mindset.</p>
+      <p>Reconnaissance, enumeration, OWASP, attack surface analysis, security testing methodology and ethical exploitation mindset.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💻 Development</h3>
