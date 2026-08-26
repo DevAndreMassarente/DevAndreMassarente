@@ -22,53 +22,69 @@
 
 ---
 
-## 👾 About me
+## 👾 Sobre mim
 
-I'm **André Massarente**, a **Computer Science student** with a strong focus on **Offensive Security**, **development**, **AI** and **automation**.
+Sou **André Massarente**, estudante de **Ciência da Computação** com foco em **Offensive Security**, **desenvolvimento**, **IA** e **automação**.
 
-I like building practical tools, automating repetitive workflows, breaking down how systems work, and turning technical learning into real projects.
+Gosto de criar ferramentas práticas, automatizar tarefas repetitivas, entender como sistemas funcionam por dentro e transformar aprendizado técnico em projetos reais.
 
 ```txt
 root@portfolio:~$ whoami
-offensive security • development • ai • automation • linux
+offensive security • desenvolvimento • ia • automação • linux
 ```
 
 ---
 
-## 🧨 Core focus
+## 🧨 Focos principais
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Offensive Security</h3>
-      <p>Reconnaissance, enumeration, OWASP, attack surface analysis, security testing methodology and ethical exploitation mindset.</p>
+      <p>Reconhecimento, enumeração, OWASP, análise de superfície de ataque, metodologia de testes de segurança e mentalidade de exploração ética.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Development</h3>
-      <p>Python, JavaScript/TypeScript, Java, APIs, clean structure, Git/GitHub workflows and maintainable project organization.</p>
+      <h3>💻 Desenvolvimento</h3>
+      <p>Python, JavaScript/TypeScript, Java, APIs, estrutura limpa, fluxos com Git/GitHub e organização de projetos manuteníveis.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Automation</h3>
-      <p>Python and Bash scripts to reduce manual work, collect data, create tools and build repeatable technical workflows.</p>
+      <h3>⚙️ Automação</h3>
+      <p>Scripts em Python e Bash para reduzir trabalho manual, coletar dados, criar ferramentas e construir fluxos técnicos reproduzíveis.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI</h3>
-      <p>Using AI agents, prompts and workflows to accelerate research, documentation, coding, analysis and productivity.</p>
+      <h3>🤖 IA</h3>
+      <p>Uso de agentes, prompts e fluxos com IA para acelerar pesquisa, documentação, programação, análise e produtividade.</p>
     </td>
   </tr>
 </table>
 
+---
+
+## 🧰 Stack principal
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,java,ts,js,flask,aws" alt="Tech stack" />
+<strong>Linguagens & scripting</strong>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash" alt="Linguagens e scripting" />
+
+<br/><br/>
+
+<strong>Ambiente, segurança & cloud</strong>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux,kali,aws" alt="Ambiente, segurança e cloud" />
 
 </div>
 
 ---
 
-## 🎓 Certification
+## 🎓 Certificação
 
 <div align="center">
 
