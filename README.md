@@ -44,17 +44,17 @@ offensive security • desenvolvimento • ia • automação • linux
       <p>Reconhecimento, enumeração, OWASP, análise de superfície de ataque, metodologia de testes de segurança e mentalidade de exploração ética.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Desenvolvimento</h3>
+      <h3>💻 Development</h3>
       <p>Python, JavaScript/TypeScript, Java, APIs, estrutura limpa, fluxos com Git/GitHub e organização de projetos manuteníveis.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Automação</h3>
+      <h3>⚙️ Automation</h3>
       <p>Scripts em Python e Bash para reduzir trabalho manual, coletar dados, criar ferramentas e construir fluxos técnicos reproduzíveis.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 IA</h3>
+      <h3>🤖 AI</h3>
       <p>Uso de agentes, prompts e fluxos com IA para acelerar pesquisa, documentação, programação, análise e produtividade.</p>
     </td>
   </tr>
