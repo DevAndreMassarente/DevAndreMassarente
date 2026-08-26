@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f766e,100:7c3aed&text=André%20Massarente&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Cyber%20Security%20%E2%80%A2%20Hacking%20%C3%89tico%20%E2%80%A2%20Scripting%20%E2%80%A2%20Software%20Engineering&descAlignY=55&descSize=16&animation=fadeIn" alt="Banner André Massarente" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f766e,100:7c3aed&text=André%20Massarente&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Cyber%20Security%20%E2%80%A2%20Seguran%C3%A7a%20Ofensiva%20%E2%80%A2%20Scripting%20%E2%80%A2%20Software%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" alt="André Massarente" />
 
-<img src="https://img.shields.io/badge/Cyber%20Security-0f172a?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Cyber Security" />
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+<img src="https://img.shields.io/badge/Cyber%20Security-020617?style=for-the-badge&logo=hackthebox&logoColor=00f5d4" alt="Cyber Security" />
 <img src="https://img.shields.io/badge/Seguran%C3%A7a%20Ofensiva-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Segurança Ofensiva" />
-<img src="https://img.shields.io/badge/Python%20%26%20Scripting-1e293b?style=for-the-badge&logo=python&logoColor=facc15" alt="Python e Scripting" />
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
+<img src="https://img.shields.io/badge/Python%20%7C%20Linux%20%7C%20Automação-1e293b?style=for-the-badge&logo=python&logoColor=facc15" alt="Python Linux Automação" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/andremassarente/">
   <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9%20Massarente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/DevAndreMassarente">
-  <img src="https://img.shields.io/badge/GitHub-DevAndreMassarente-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil" />
 
@@ -21,52 +18,47 @@
 
 ---
 
-## 🧭 Sobre mim
+## 👾 Quem sou
 
-Sou **André Luiz Massarente**, estudante de **Ciência da Computação** e profissional em formação na área de **Cyber Security**, com foco em **Segurança Ofensiva**, **Postura de Segurança Cibernética** e automações para apoiar operações técnicas.
+Sou **André Massarente**, estudante de **Ciência da Computação** e profissional na área de **Cyber Security**, com foco em **Segurança Ofensiva**.
 
-Meu objetivo é evoluir como **Analista Jr de Cyber Security** e, no futuro, atuar como **pentester**, unindo segurança ofensiva, programação, Linux, automação e engenharia de software.
+Busco evoluir como **Analista Jr de Cyber Security** e futuro **pentester**, construindo uma base forte em segurança, programação, Linux, redes, automação e engenharia de software.
 
 ```txt
-> foco_atual
-  cyber security | hacking ético | pentest | python | linux | automação | software engineering
-
-> mentalidade
-  aprender rápido, construir ferramentas úteis, documentar bem e sempre proteger dados sensíveis
+root@portfolio:~$ whoami
+cyber security • segurança ofensiva • pentest • scripting • linux • software engineering
 ```
 
 ---
 
-## ⚡ Arsenal técnico
-
-<div align="center">
+## 🧨 Especialidades em evolução
 
 <table>
   <tr>
-    <td align="center"><b>🛡️ Cyber Security</b></td>
-    <td>Segurança ofensiva, postura cibernética, OWASP, Burp Suite, Nmap, fundamentos de pentest</td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Segurança Ofensiva</h3>
+      <p>Pentest, reconhecimento, enumeração, OWASP, análise de superfície de ataque e mentalidade de exploração ética.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Scripting & Automação</h3>
+      <p>Python e Bash para criar ferramentas, automatizar tarefas repetitivas e transformar processos manuais em fluxos reproduzíveis.</p>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>🐧 Sistemas</b></td>
-    <td>Linux, Kali Linux, terminal, redes, troubleshooting e hardening básico</td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Scripting</b></td>
-    <td>Python, Bash, automações, análise de dados e ferramentas CLI</td>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 Desenvolvimento</b></td>
-    <td>Java, TypeScript, JavaScript, Flask, Streamlit, Git e GitHub</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 IA & Produtividade</b></td>
-    <td>Agentes de IA, Obsidian, documentação técnica e fluxos de automação pessoal</td>
+    <td width="50%" valign="top">
+      <h3>🐧 Linux & Redes</h3>
+      <p>Terminal, sistemas Linux, fundamentos de redes, troubleshooting, serviços, permissões e práticas de hardening.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      <p>Desenvolvimento de aplicações, organização de código, Git/GitHub, APIs, documentação de projeto e boas práticas de manutenção.</p>
+    </td>
   </tr>
 </table>
 
-<br/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,bash,linux,kali,git,github,flask" alt="Stack icons" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,java,ts,js,flask" alt="Stack" />
 
 </div>
 
@@ -76,70 +68,14 @@ Meu objetivo é evoluir como **Analista Jr de Cyber Security** e, no futuro, atu
 
 <div align="center">
 
-| Certificação | Emissor | Status |
-|---|---|---|
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | ✅ Conquistada |
-| **DCPT** | Desec Security | 🎯 Em preparação |
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Conquistada-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🔥 Queimadas Alagoas — Python, Streamlit e Dados
-Dashboard interativo para análise de queimadas, com visualizações, mapas, ordenação e tratamento de dados.
-
-🔗 [Ver repositório](https://github.com/DevAndreMassarente/aps-queimadas-alagoas)
-
-### 🐉 Guardiões da Chama — Java e Programação Orientada a Objetos
-RPG em console desenvolvido em Java, aplicando encapsulamento, herança, polimorfismo, progressão e sistema de combate.
-
-🔗 [Ver repositório](https://github.com/DevAndreMassarente/GuardioesDaChama)
-
-### 🗳️ Urna de Votação — Python, Flask e GitHub API
-Aplicação web de votação com fluxo de votos criptografados e integração com GitHub API.
-
-🔗 [Ver repositório](https://github.com/DevAndreMassarente/ProjetoFinal-1Semestre)
-
----
-
-## 🧪 Em construção
-
-Estou organizando meu portfólio para mostrar melhor minha evolução técnica. Os próximos passos são:
-
-- publicar scripts úteis de automação e segurança;
-- criar labs próprios de cybersecurity com writeups sanitizados;
-- melhorar READMEs, topics e documentação dos projetos públicos;
-- revisar repositórios privados antes de decidir o que pode virar público;
-- construir ferramentas que conectem segurança, IA, automação e engenharia de software.
-
----
-
-## 📌 Direção profissional
-
-```txt
-Cyber Security não é só encontrar falhas.
-É entender sistemas, reduzir riscos, automatizar o que é repetitivo
-e comunicar com clareza o que precisa ser protegido.
-```
-
----
-
-## 📫 Contato
-
 <div align="center">
 
-Se quiser trocar ideia sobre **Cyber Security**, **hacking ético**, **automação**, **Linux**, **Python** ou oportunidades na área:
-
-<br/>
-
-<a href="https://www.linkedin.com/in/andremassarente/">
-  <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,55:0f766e,100:020617" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7c3aed,55:0f766e,100:020617" alt="Footer" />
 
 </div>
