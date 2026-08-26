@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f766e,100:7c3aed&text=André%20Massarente&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Cyber%20Security%20%E2%80%A2%20Seguran%C3%A7a%20Ofensiva%20%E2%80%A2%20Scripting%20%26%20Software%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" alt="André Massarente" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f766e,100:7c3aed&text=André%20Massarente&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Cyber%20Security%20%E2%80%A2%20Seguran%C3%A7a%20Ofensiva%20%E2%80%A2%20Scripting%20%E2%80%A2%20Software%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" alt="André Massarente" />
 
 <img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
 
@@ -29,7 +29,7 @@ Busco evoluir como **Analista Jr de Cyber Security** e futuro **pentester**, con
 
 ```txt
 root@portfolio:~$ whoami
-cyber security • segurança ofensiva • pentest • scripting & software engineering • linux
+cyber security • segurança ofensiva • pentest • scripting • linux • software engineering
 ```
 
 ---
@@ -43,8 +43,8 @@ cyber security • segurança ofensiva • pentest • scripting & software engi
       <p>Pentest, reconhecimento, enumeração, OWASP, análise de superfície de ataque e mentalidade de exploração ética.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Scripting & Software Engineering</h3>
-      <p>Python, Bash, Git/GitHub, APIs e boas práticas para criar ferramentas úteis, manter código organizado e automatizar fluxos repetitivos.</p>
+      <h3>⚙️ Scripting & Automação</h3>
+      <p>Python e Bash para criar ferramentas, automatizar tarefas repetitivas e transformar processos manuais em fluxos reproduzíveis.</p>
     </td>
   </tr>
   <tr>
@@ -53,8 +53,8 @@ cyber security • segurança ofensiva • pentest • scripting & software engi
       <p>Terminal, sistemas Linux, fundamentos de redes, troubleshooting, serviços, permissões e práticas de hardening.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Cloud Foundations</h3>
-      <p>Base em computação em nuvem com AWS Certified Cloud Practitioner, fundamentos de serviços cloud, segurança e infraestrutura.</p>
+      <h3>💻 Software Engineering</h3>
+      <p>Desenvolvimento de aplicações, organização de código, Git/GitHub, APIs, documentação de projeto e boas práticas de manutenção.</p>
     </td>
   </tr>
 </table>
