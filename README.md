@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f766e,100:7c3aed&text=Andr%C3%A9%20Massarente&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Cyber%20Security%20%E2%80%A2%20Seguran%C3%A7a%20Ofensiva%20%E2%80%A2%20Scripting%20%26%20Software%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" alt="André Massarente" />
+<img src="./assets/profile-banner.png" alt="André Massarente" />
 
 <img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
 
