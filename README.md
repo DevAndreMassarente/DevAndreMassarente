@@ -124,12 +124,6 @@ Cyber Security não é só encontrar falhas.
 e comunicar com clareza o que precisa ser protegido.
 ```
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAndreMassarente&bg_color=020617&color=38bdf8&line=00f5d4&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade GitHub" />
-
-</div>
-
 ---
 
 ## 📫 Contato
