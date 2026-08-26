@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Offensive%20Security-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Offensive Security" />
-<img src="https://img.shields.io/badge/Development-1e293b?style=for-the-badge&logo=visualstudiocode&logoColor=22d3ee" alt="Development" />
+<img src="https://img.shields.io/badge/Development-1e293b?style=for-the-badge&logo=git&logoColor=F05032" alt="Development" />
 <img src="https://img.shields.io/badge/AI-312e81?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI" />
 <img src="https://img.shields.io/badge/Automation-0f766e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
 
