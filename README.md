@@ -2,21 +2,15 @@
 
 <img src="./assets/profile-banner-v4.png" alt="André Massarente — Offensive Security, Development, AI and Automation" />
 
-<img src="./assets/aws-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/Offensive%20Security-0b0b0f?style=for-the-badge&logo=kalilinux&logoColor=ef4444" alt="Offensive Security" />
-<img src="https://img.shields.io/badge/Development-1a0b0b?style=for-the-badge&logo=git&logoColor=F05032" alt="Development" />
-<img src="https://img.shields.io/badge/AI-450a0a?style=for-the-badge&logo=googlegemini&logoColor=ffffff" alt="AI" />
-<img src="https://img.shields.io/badge/Automation-7f1d1d?style=for-the-badge&logo=githubactions&logoColor=ffffff" alt="Automation" />
+<img src="https://img.shields.io/badge/Development-0b0b0f?style=for-the-badge&logo=git&logoColor=ef4444" alt="Development" />
+<img src="https://img.shields.io/badge/AI-0b0b0f?style=for-the-badge&logo=googlegemini&logoColor=ef4444" alt="AI" />
+<img src="https://img.shields.io/badge/Automation-0b0b0f?style=for-the-badge&logo=githubactions&logoColor=ef4444" alt="Automation" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/andremassarente/">
-  <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9%20Massarente-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=ef4444" alt="LinkedIn" />
-</a>
-<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brazil-450a0a?style=for-the-badge&logo=googlemaps&logoColor=ffffff" alt="São Paulo, Brazil" />
+<a href="https://www.linkedin.com/in/andremassarente/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=ef4444" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%20%E2%80%A2%20Brazil-0b0b0f?style=for-the-badge&logo=googlemaps&logoColor=ef4444" alt="São Paulo, Brazil" />
 
 </div>
 
@@ -45,7 +39,7 @@ offensive security • desenvolvimento • ia • automação • linux
     </td>
     <td width="50%" valign="top">
       <h3>💻 Development</h3>
-      <p>Python, JavaScript/TypeScript, Java, APIs, estrutura limpa, fluxos com Git/GitHub e organização de projetos manuteníveis.</p>
+      <p>Python, JavaScript/TypeScript, Java, APIs, estrutura limpa, boas práticas de versionamento e organização de projetos manuteníveis.</p>
     </td>
   </tr>
   <tr>
