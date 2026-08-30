@@ -1,17 +1,15 @@
 <div align="center">
-
 <img src="./assets/profile-banner-v4.png" alt="André Massarente — Offensive Security, Development, AI and Automation" />
-
+<br/>
+<img src="./assets/aws-cloud-practitioner.png" width="96" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
+<br/>
 <img src="https://img.shields.io/badge/Offensive%20Security-0b0b0f?style=for-the-badge&logo=kalilinux&logoColor=ef4444" alt="Offensive Security" />
 <img src="https://img.shields.io/badge/Development-0b0b0f?style=for-the-badge&logo=git&logoColor=ef4444" alt="Development" />
 <img src="https://img.shields.io/badge/AI-0b0b0f?style=for-the-badge&logo=googlegemini&logoColor=ef4444" alt="AI" />
 <img src="https://img.shields.io/badge/Automation-0b0b0f?style=for-the-badge&logo=githubactions&logoColor=ef4444" alt="Automation" />
-
-<br/><br/>
-
+<br/>
 <a href="https://www.linkedin.com/in/andremassarente/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=ef4444" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%20%E2%80%A2%20Brazil-0b0b0f?style=for-the-badge&logo=googlemaps&logoColor=ef4444" alt="São Paulo, Brazil" />
-
 </div>
 
 ---
