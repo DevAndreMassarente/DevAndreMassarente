@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/AI-0b0b0f?style=for-the-badge&logo=googlegemini&logoColor=ef4444" alt="AI" />
 <img src="https://img.shields.io/badge/Automation-0b0b0f?style=for-the-badge&logo=githubactions&logoColor=ef4444" alt="Automation" />
 <br/>
-<a href="https://www.linkedin.com/in/andremassarente/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=ef4444" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/andremassarente/"><img src="./assets/linkedin-badge-v1.png" height="28" alt="LinkedIn" title="LinkedIn de André Massarente" /></a>
 <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%20%E2%80%A2%20Brazil-0b0b0f?style=for-the-badge&logo=googlemaps&logoColor=ef4444" alt="São Paulo, Brazil" />
 </div>
 
